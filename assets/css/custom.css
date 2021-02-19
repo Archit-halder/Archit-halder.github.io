@@ -1,5 +1,5 @@
 /**
-* Created by shubham on 17/1/17.
+*Edited by Archit 19.02.21
 */
 
 html, body {
@@ -22,7 +22,7 @@ body {
 body #wrapper {
     overflow: hidden;
     min-height: 100%;
-    background: url("../images/laptop-1805315_1280.jpg") no-repeat center fixed;
+    background: url("../images/Background.jpg") no-repeat center fixed;
     background-size: cover;
 }
 
