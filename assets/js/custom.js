@@ -1,5 +1,5 @@
 // /**
-//  * Created by shubham on 17/1/17.
+//  * Edited by Archit 19.02.21.
 //  */
 //
 // $(document).ready(function () {
@@ -12,7 +12,7 @@
 //
 //     $(function(){
 //         $("#text").typed({
-//             strings: ["Shubham Aggarwal", "Tech Enthusiast | Programmer | Developer"],
+//             strings: ["Archit Halder", "VLSI Enthusiast"],
 //             typeSpeed: 0
 //         });
 //     });
